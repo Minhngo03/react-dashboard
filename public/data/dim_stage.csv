@@ -1,0 +1,5 @@
+StageID;StageCode;StageName;Description;SortOrder
+1;Receive;Ti?p nh?n don;Ðon hàng du?c ti?p nh?n t? khách ho?c kênh bán hàng;1
+2;WH_MAIN;Kho t?ng;Ðon du?c phân lo?i và x? lý t?i kho t?ng;2
+3;WH_SUB;Kho nh?;Ðon ? kho tuy?n d? chu?n b? giao;3
+4;Delivery;Giao hàng;Nhân viên v?n chuy?n giao hàng cho khách;4
